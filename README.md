@@ -104,17 +104,6 @@ In conclusion, our sentiment analysis project not only provides valuable insight
 - Go, A., Bhayani, R., & Huang, L. (2009). Twitter Sentiment Analysis. Proceedings of the International Conference on Computational Linguistics. Link
 - Agarwal, B., & Mittal, N. (2012). Sentiment Analysis of Twitter Data. International Journal of Computer Science and Information Technologies.
 
-## Proposed Timeline
-[Timeline Sheets Link](https://docs.google.com/spreadsheets/d/1s7zqPOImqI5OmltkKTFC6bFR-RlrR9YahXkjSHDkKuM/edit?usp=sharing)
-
-## Contribution Table
-
-| Tasks                        | Contributers        |
-|------------------------------|---------------------|
-| Model Generation             | Yatin + Minjun      |
-| Final Presentation Slides    | Jayden              |
-| Final Presentation Voiceover | Jamie               |
-
 Data Sets: 
 - [Twitter Sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140)
 - [Reddit Comments Dataset](https://www.reddit.com/dev/api/)
