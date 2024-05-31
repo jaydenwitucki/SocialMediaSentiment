@@ -1,4 +1,4 @@
-# Final Report: Sentiment Analysis of Social Media Data
+Sentiment Analysis of Social Media Data
 ## Introduction/ Background
 Social media platforms, a staple of modern communication, offer massive amounts of data that reflect public sentiment. Sentiment analysis, a subfield of natural language processing (NLP), aims to decipher these sentiments from raw textual data. Over the years, several studies, including works by Pak & Paroubek (2010) and Go, Bhayani & Huang (2009), have explored sentiment analysis on Twitter. In this project, our goal is to expand on this existing knowledge, delving into sentiment analysis across a broader spectrum of platforms like Twitter and Reddit, harnessing the potential of these massive datasets to provide a richer, more nuanced understanding of public opinions.
 
